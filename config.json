@@ -1,0 +1,11 @@
+{
+  "font": "Roboto-Medium.ttf",
+  "map": "map.png",
+  "mapInfo": "mapInfo.png",
+  "ships": [
+    2,
+    2,
+    3,
+    4
+  ]
+}
